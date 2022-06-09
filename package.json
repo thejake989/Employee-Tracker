@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/thejake989/Employee-Tracker.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -18,6 +19,6 @@
   "homepage": "https://github.com/thejake989/Employee-Tracker#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "mysql2": "^2.3.3"
+    "mysql": "^2.18.1"
   }
 }
